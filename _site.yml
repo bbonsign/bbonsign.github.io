@@ -8,6 +8,9 @@ navbar:
   - text: About
     icon: fa-info
     href: about.html
+  right:
+  - icon: fa-github fa-2x
+    href: https://github.com/bbonsign
 output_dir: '.'
 output:
   html_document:
