@@ -1,5 +1,5 @@
 ---
-title: "Home page | Brian Bonsignore"
+title: Home | Brian Bonsignore
 output: html_document
 ---
 
