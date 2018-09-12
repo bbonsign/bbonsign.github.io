@@ -1,0 +1,17 @@
+name: my-rmd-website
+navbar:
+  title: Website of Brian Bonsignore
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: About
+    icon: fa-info
+    href: about.html
+output_dir: '.'
+output:
+  html_document:
+    mathjax: local
+    theme: yeti
+    highlight: pygments
+    css: ~
