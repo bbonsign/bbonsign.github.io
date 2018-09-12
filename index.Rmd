@@ -1,6 +1,5 @@
 ---
-title: "index"
-author: "Brian Bonsignore"
+title: "Home page | Brian Bonsignore"
 output: html_document
 ---
 
