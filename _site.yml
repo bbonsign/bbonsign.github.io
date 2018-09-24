@@ -2,7 +2,6 @@ name: my-rmd-website
 navbar:
   title: Website of Brian Bonsignore    
   left:
-  - text: Home
   - text: Home 
     icon: fa-home
     href: index.html
