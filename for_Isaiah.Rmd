@@ -1,0 +1,17 @@
+---
+title: "For Isaiah"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Z-score and distribution calculator and visualizer
+[https://www.webassign.net/tparise/beta/stats/distributionIndex.html](https://www.webassign.net/tparise/beta/stats/distributionIndex.html)
+
+## Practice Problems for AP Stats
+Consider problems under "Modeling Data Distrubutions" for z-scores and "Study Design" for sampling methods and bias:
+[https://www.khanacademy.org/math/ap-statistics?t=practice](https://www.khanacademy.org/math/ap-statistics?t=practice)
+
