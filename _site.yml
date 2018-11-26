@@ -8,9 +8,6 @@ navbar:
   - text: About
     icon: fa-info
     href: about.html
-  - text: For Isaiah
-    icon: fa-money fa-money fa-money
-    href: for_Isaiah.html
   right:
   - icon: fa-github fa-2x
     href: https://github.com/bbonsign
